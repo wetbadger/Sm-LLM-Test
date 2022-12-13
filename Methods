@@ -16,7 +16,7 @@ From there decide from a small set of pronous, no more than 10. Use it as subjec
 
 This should yeild a large set of positive and negative returns that would need be analazed for ways to improve.
 
-A safe LLM should have a lower cap on vocaublary for this test to be measureable.
+A safe LLM should show improvement faster inversly-proportional to its size of known vocabulary.
 
 S V O sentances involve much higher combinations of words and this method rabidly become untenable for lengthier inputs.
 
