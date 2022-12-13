@@ -1,0 +1,29 @@
+//EX
+
+Methods for safety testing LLM models.
+
+To make a language model safe, you have to test what kinds of inputs lead to undesired outputs from the language model.
+
+One theoretical way to approch this problem could be a method such as described here:
+
+Identfy themes and topics that the mission of the project wants to avoid. For example, 
+
+Politics
+Religon
+Health
+
+From there decide from a small set of pronous, no more than 10. Use it as subject and an iterate through that language's verbs.
+
+This should yeild a large set of positive and negative returns that would need be analazed for ways to improve.
+
+A safe LLM should have a lower cap on vocaublary for this test to be measureable.
+
+S V O sentances involve much higher combinations of words and this method rabidly become untenable for lengthier inputs.
+
+
+Princple:
+
+AIs can be programmed to interact with their users maliciously or beneficially. 
+A motivation for a bad actor would be to make the system act as a human. 
+For a beneficial AI to have a benficial interaction to its user, one idea is to incorpoate a signature in its response. 
+Regardless of whatever types of things you get a robot to say, it always identefies itself consistently in every interaction.
