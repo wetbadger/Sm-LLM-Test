@@ -3,7 +3,7 @@ Using a minimally constructed LLM with very limited vocabulary, can we identify 
 
 This is a small project meant to test improvement in LLM models.
 
-#Exigence
+# Exigence
 
 What is a Small LLM?
 
