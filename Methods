@@ -12,13 +12,13 @@ Politics
 Religon
 Health
 
-From there decide from a small set of pronous, no more than 10. Use it as subject and an iterate through that language's verbs.
+From there decide from a small set of pronous, no more than 10. Use the pronoun as subject and an iterate through that language's verbs.
 
 This should yeild a large set of positive and negative returns that would need be analazed for ways to improve.
 
-A safe LLM should show improvement faster inversly-proportional to its size of known vocabulary.
+From this theory I hypothesize that a safe LLM should show improvement faster inversly-proportional to its size of known vocabulary.
 
-S V O sentances involve much higher combinations of words and this method rabidly become untenable for lengthier inputs.
+S V O sentances involve much higher combinations of words and this method may rapidly become less tenable for lengthier inputs.
 
 
 Princple:
@@ -26,4 +26,4 @@ Princple:
 AIs can be programmed to interact with their users maliciously or beneficially. 
 A motivation for a bad actor would be to make the system act as a human. 
 For a beneficial AI to have a benficial interaction to its user, one idea is to incorpoate a signature in its response. 
-Regardless of whatever types of things you get a robot to say, it always identefies itself consistently in every interaction.
+Regardless of whatever types of things you get a LLM to output, it always identefies itself consistently in every interaction as a software tool with limited capabilities.
