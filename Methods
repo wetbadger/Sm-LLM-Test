@@ -6,7 +6,7 @@ To make a language model safe, you have to test what kinds of inputs lead to und
 
 One theoretical way to approch this problem could be a method such as described here:
 
-Identfy themes and topics that the mission of the project wants to avoid. For example, 
+Identify themes and topics that the mission of the project wants to avoid. For example, 
 
 Politics
 Religon
